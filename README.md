@@ -1,0 +1,2 @@
+# npproject
+Our analysis of Framingham Heart Study is based on a subset of data that only include 16 variables when participants first participated the study back in 1948. With more complete data, we may study association between 10-yr CHD and more various risk factors, like use of antihypertensive medication, stroke history and diabetic or not which are possible risk factors for CHD. We may also study relationship of risk factors and progress of CHD if we get data of each participant during their follow-up exam.
