@@ -1,7 +1,7 @@
 # Nonparametric methods on Framingham Heart Study
 *** Written in R
 
-Our analysis of Framingham Heart Study is based on a subset of data that includes 16 variables when participants first participated the study back in 1948. 
+Our analysis of Framingham Heart Study is based on a subset of data that includes 17 variables when participants first participated the study back in 1948. 
 
 We mainly studied the relationship between a binary response variable (10-yr Coronary Heart Disease) and 14 risk factors, including five qualitative variables and nine quantitative variables.
 
