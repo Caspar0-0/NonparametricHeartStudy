@@ -1,4 +1,4 @@
-# Nonparametric methods on Framingham Heart Study
+# Nonparametric Methods on Framingham Heart Study
 *** Written in R
 
 Our analysis of Framingham Heart Study is based on a subset of data that includes 17 variables when participants first participated the study back in 1948. 
